@@ -1,0 +1,38 @@
+.login-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    background-image: url('loginbg.jpg');
+    background-size: cover;
+    
+}
+#main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#content {
+    width: 20%;
+    height: auto;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#content h1 {
+    white-space: nowrap; 
+}
+
+
+#btn {
+    margin-top: 20px;
+}
+

@@ -1,0 +1,176 @@
+[{
+  "register_number":2021239016,
+  "semester": 1 ,
+  "course_code": "MA5151",
+  "grade": "A+",
+  "credits": 4
+},
+{
+  "register_number":2021239005,
+  "semester": 2 ,
+  "course_code": "XC5251",
+  "grade": "A+",
+  "credits": 3
+},
+{
+  "register_number":2021239017,
+  "semester": 3 ,
+  "course_code": "XC5353",
+  "grade": "A",
+  "credits": 3
+},
+{
+  "register_number":2021239016,
+  "semester": 3 ,
+  "course_code": "MA5351",
+  "grade": "A",
+  "credits": 4
+},
+{
+  "register_number":2021239011,
+  "semester": 1 ,
+  "course_code": "PH5152",
+  "grade": "B+",
+  "credits": 4
+},
+{
+  "register_number":2021239018,
+  "semester": 4 ,
+  "course_code": "XC5451",
+  "grade": "A+",
+  "credits": 4
+},
+{
+  "register_number":2021242006,
+  "semester": 1 ,
+  "course_code": "Xt5501",
+  "grade": "O",
+  "credits": 3
+},
+{
+  "register_number":2021239006,
+  "semester": 3 ,
+  "course_code": "XC5354",
+  "grade": "A",
+  "credits": 4
+},
+{
+  "register_number":2021242017,
+  "semester": 2 ,
+  "course_code": "XC5251",
+  "grade": "B",
+  "credits": 3
+},
+{
+  "register_number":2021239016,
+  "semester": 4 ,
+  "course_code": "XC5552",
+  "grade": "A",
+  "credits": 4
+},
+{
+  "register_number":2021239017,
+  "semester": 5 ,
+  "course_code": "XC5552",
+  "grade": "A+",
+  "credits": 4
+},
+{
+  "register_number":2021239025,
+  "semester": 3 ,
+  "course_code": "XC5351",
+  "grade": "A",
+  "credits": 4
+},
+{
+  "register_number":2021239024,
+  "semester": 1 ,
+  "course_code": "MA5151",
+  "grade": "O",
+  "credits": 4
+},
+{
+  "register_number":2020239020,
+  "semester": 2 ,
+  "course_code": "XC5351",
+  "grade": "O",
+  "credits": 4
+},
+{
+  "register_number":2021239024,
+  "semester": 3 ,
+  "course_code": "XC5353",
+  "grade": "O",
+  "credits": 3
+},
+{
+  "register_number":2021239005,
+  "semester": 5 ,
+  "course_code": "XC5501",
+  "grade": "B",
+  "credits": 4
+},
+{
+  "register_number":2019239010,
+  "semester": 2 ,
+  "course_code": "XC5251",
+  "grade": "B",
+  "credits": 3
+},
+{
+  "register_number":2021239016,
+  "semester": 5,
+  "course_code": "MA5451",
+  "grade": "A+",
+  "credits": 4
+},
+{
+  "register_number":2023239013,
+  "semester": 1 ,
+  "course_code": "MA5151",
+  "grade": "RA",
+  "credits": 4
+},
+{
+  "register_number":2021242006,
+  "semester": 4 ,
+  "course_code": "XC5451",
+  "grade": "A+",
+  "credits": 3
+},
+{
+  "register_number":2022242001,
+  "semester": 4 ,
+  "course_code": "XC5453",
+  "grade": "B+",
+  "credits": 3
+},
+{
+  "register_number":2020239021,
+  "semester": 1 ,
+  "course_code": "XC5151",
+  "grade": "B+",
+  "credits": 4
+},
+{
+  "register_number":2021242021,
+  "semester": 1 ,
+  "course_code": "XC5152",
+  "grade": "A",
+  "credits": 3
+},
+{
+  "register_number":2021242006,
+  "semester": 5 ,
+  "course_code": "MA5251",
+  "grade": "A+",
+  "credits": 4
+},
+{
+  "register_number":2022249006,
+  "semester": 1 ,
+  "course_code": "XC5152",
+  "grade": "B+",
+  "credits": 3
+}
+]

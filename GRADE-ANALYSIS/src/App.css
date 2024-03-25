@@ -1,0 +1,135 @@
+#bar{
+
+  margin-left: 100%;
+  align-items: center;
+}
+body {
+  background-color: #222; 
+  color: #eee; 
+ 
+}
+
+.App {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.chart-container {
+  margin: 20px auto; 
+  text-align: center; 
+  border: 2px solid white; 
+  padding: 60px; 
+}
+
+ .filter-container {
+  margin-bottom: 20px;
+} 
+
+.container {
+  display: flex;
+}
+
+ .left {
+  flex: 1;
+  padding: 0 20px;
+} 
+
+.right {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.table-container {
+  overflow-x: auto;
+  margin: 20px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #ffffff; 
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd; 
+  text-align: left;
+}
+
+th {
+  background-color: #333; 
+}
+
+.radio-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.radio-container div {
+  margin-right: 20px;
+}
+
+
+.select-container select {
+  width: 200px; 
+  height: 40px; 
+  border-radius: 10px; 
+  margin-bottom: 15px;
+}
+
+.select-container button {
+  padding: 8px 20px; 
+  width: 130px;
+  font-size: 20px; 
+  background-color: blue; 
+  color: white; 
+  border-radius: 5px; 
+  margin-top: 15px;
+  
+}
+
+.select-container button:hover {
+  background-color: darkblue; 
+  
+}
+
+  
+.menu-bar {
+  background-color: #333;
+  display: flex; 
+  justify-content: space-between; 
+  padding: 10px 20px; 
+}
+
+.menu-bar ul {
+  margin: 0;
+}
+
+.menu-bar li {
+  float: left; 
+  list-style-type: none; 
+  margin-right: 20px; 
+}
+
+.menu-bar li a {
+  color: white;
+  padding: 14px 16px; 
+  text-decoration: none; 
+  display: flex; 
+  justify-content: space-between;
+  font-size: 18px; 
+}
+
+.menu-bar li a:hover {
+  background-color: #111; 
+}
+
+.menu-bar .title {
+  color: white; 
+  font-size: 25px; 
+}
+
+.menu-bar li:last-child {
+  margin-right: 0; 
+}
